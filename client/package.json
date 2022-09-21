@@ -15,7 +15,7 @@
     "vue-dropdowns": "^1.0.6",
     "vue-router": "^3.1.2",
     "vuejs-logger": "1.5.3",
-    "vuetify": "^2.0.15"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.9.0",
@@ -32,7 +32,7 @@
     "stylus-loader": "^3.0.2",
     "vue-cli-plugin-vuetify": "^0.6.3",
     "vue-template-compiler": "^2.6.10",
-    "vuetify": "^2.0.15",
+    "vuetify": "^2.6.10",
     "vuetify-loader": "^1.2.2"
   },
   "eslintConfig": {
